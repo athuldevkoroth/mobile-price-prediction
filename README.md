@@ -112,7 +112,7 @@ It provided the highest accuracy and excellent class-wise performance.
 - Create a mobile-friendly UI where users can input phone specifications and get instant predictions.  
 - Expand prediction capability from price *range* to actual *price regression*.  
 
-### 📬 Contact
+### 📬 Contact Me
 
 If you have any questions, suggestions, or feedback regarding this project, feel free to reach out through the channels below:
 
